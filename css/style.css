@@ -990,7 +990,9 @@ select::-ms-expand {
     transform: rotate(45deg);
     transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
   }
-
+.body-collumn{
+      margin: 20px 0px 20px 0px;
+  }
   .header-menu {
     display: flex;
     flex-direction: column;
